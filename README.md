@@ -1,5 +1,6 @@
 Hi 👋 My name is Ashutosh Panda.
 ================================
+![Github banner](https://github.com/AshutoshPanda2002/AshutoshPanda2002/assets/85765008/8c4c8d4b-ec54-402d-829c-60dabba94158)
 
 Artificial Intelligence | Machine Learning
 ------------------------------------------
