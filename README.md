@@ -3,14 +3,15 @@ Hi 👋 My name is Ashutosh Panda.
 
 Artificial Intelligence | Machine Learning
 ------------------------------------------
+Mechanical Engineering Undergrad by day, Machine Learning geek by night. Ambitious and creative professional with a knack for intuitively grasping the intricacies of challenging problems and coming up with unique solutions. Efficient team player with skills and experience to lead teams and bring about desirable results. 
+<br>
 
-Mechanical Engineering Undergrad by day, Machine Learning geek by night. Ambitious and creative professional with a knack for intuitively grasping the intricacies of challenging problems and coming up with unique solutions. Efficient team player with skills and experience to lead teams and bring about desirable results. I work in the fields of Machine Learning, Deep Learning, Neural Networks, Computer Vision, and Robotics - talk about a mouthful! Though, I am quite fascinated by all things tech, and, it's power to bring about social good for communities
+I work in the fields of Machine Learning, Deep Learning, Neural Networks, Computer Vision, and Robotics - talk about a mouthful! Though, I am quite fascinated by all things tech, and, it's power to bring about social good for communities.
 
 * 🌍  I'm based in Bombay | Bhubaneswar
 * ✉️  You can contact me at [ashutoshpanda2002@gmail.com](mailto:ashutoshpanda2002@gmail.com)
 * 🚀  I'm currently working on a [Machine Learning project on predictive maintenance](http://https://github.com/AshutoshPanda2002/FSM-INT-2023)
-* 🧠  I'm currenty learning about Attention Mechanisms and Transformer architectures
-
+* 🧠  I'm currenty learning more about Attention Mechanisms and Transformer Architectures
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ### Skills
