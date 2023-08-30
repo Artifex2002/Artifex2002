@@ -1,6 +1,6 @@
 Hi!  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ================================
-![Github banner](https://github.com/AshutoshPanda2002/AshutoshPanda2002/assets/85765008/8c4c8d4b-ec54-402d-829c-60dabba94158)
+![Github banner](https://github.com/AshutoshPanda2002/AshutoshPanda2002/assets/85765008/0ed04761-8955-40c6-abd2-a832d8c00622)
 
 Artificial Intelligence | Machine Learning
 ------------------------------------------
