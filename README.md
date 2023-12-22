@@ -11,7 +11,7 @@ I work in the fields of Machine Learning, Deep Learning, Neural Networks, Comput
 
 * 🌍  I'm based in Bombay | Bhubaneswar
 * ✉️  You can contact me at [ashutoshpanda2002@gmail.com](mailto:ashutoshpanda2002@gmail.com)
-* 🚀  I'm currently working on a [Machine Learning project on predictive maintenance](http://https://github.com/AshutoshPanda2002/FSM-INT-2023)
+* 🚀  My most recent public work was on [Machine Learning for predictive maintenance](http://https://github.com/AshutoshPanda2002/FSM-INT-2023)
 * 🧠  I'm currenty learning more about Attention Mechanisms and Transformer Architectures
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
