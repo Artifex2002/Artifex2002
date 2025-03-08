@@ -7,7 +7,7 @@ Artificial Intelligence | Machine Learning
 Mechanical Engineer turned Machine Learning Geek. Ambitious and creative professional with a knack for intuitively grasping the intricacies of challenging problems and coming up with unique solutions. Efficient team player with skills and experience to lead teams and bring about desirable results. 
 <br>
 
-I work in the fields of Machine Learning, Deep Learning, Neural Networks, Computer Vision, and Robotics - talk about a mouthful! Though, I am quite fascinated by all things tech, and, it's power to bring about social good for communities.
+I work in the fields of Machine Learning, Deep Learning, Neural Networks, Computer Vision, and Robotics - talk about a mouthful! Though, I am quite fascinated by all things tech, and, its power to bring about social good for communities.
 
 * 🌍  I'm based in Bombay | Bhubaneswar
 * ✉️  You can contact me at [ashutoshpanda2002@gmail.com](mailto:ashutoshpanda2002@gmail.com)
