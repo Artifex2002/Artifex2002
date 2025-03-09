@@ -11,9 +11,9 @@ I work in the fields of Machine Learning, Deep Learning, Neural Networks, Comput
 
 * 🌍  I'm based in Bombay | Bhubaneswar
 * ✉️  You can contact me at [ashutoshpanda2002@gmail.com](mailto:ashutoshpanda2002@gmail.com)
-* 🚀  My most recent public work was on [extending a RL based Cybersecurity framework to Industrial Control systems & Operational Technology.](https://github.com/Artifex2002/csle)
+* 🚀  My most recent public work was on [extending a Reinforcement Learning based Cybersecurity framework to Industrial Control systems & Operational Technology.](https://github.com/Artifex2002/csle/tree/emulation_OT)
   
-<img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ### Socials
 
